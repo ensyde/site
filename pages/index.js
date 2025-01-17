@@ -1,5 +1,5 @@
 import Image from 'next/image'
-
+import "../public/styles.css";
 export default function Home() {
   return (
     <div className="min-h-screen lg:flex text-lg">

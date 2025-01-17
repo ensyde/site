@@ -1,4 +1,4 @@
-name: sample-nextjs
+name: site
 services:
 - environment_slug: node-js
   github:
